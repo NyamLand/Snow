@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SnowWars.Plugins", "SnowWars.Plugins.csproj", "{FE668CD6-BFCD-B298-42D8-599980789CE1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SnowWars", "SnowWars.csproj", "{1EA4E6F2-0496-40EA-4AB3-73987ABED4AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE668CD6-BFCD-B298-42D8-599980789CE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE668CD6-BFCD-B298-42D8-599980789CE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE668CD6-BFCD-B298-42D8-599980789CE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE668CD6-BFCD-B298-42D8-599980789CE1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1EA4E6F2-0496-40EA-4AB3-73987ABED4AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EA4E6F2-0496-40EA-4AB3-73987ABED4AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EA4E6F2-0496-40EA-4AB3-73987ABED4AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EA4E6F2-0496-40EA-4AB3-73987ABED4AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
